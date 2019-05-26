@@ -1,1 +1,1 @@
-# LRU buffering based on Golang implementation
+# Golang LRU cache
