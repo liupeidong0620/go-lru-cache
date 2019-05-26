@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"go-lru-cache"
+	"github.com/liupeidong0620/go-lru-cache"
 )
 
 func main() {
